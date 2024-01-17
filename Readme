@@ -1,0 +1,15 @@
+Create a database to manage Grocery store data using MYSQL workbench .
+
+Hi everyone! I have created a database in MySQL workbench. The steps that I took in this project are as follows:
+
+Analyzing data issues
+Dividing data into categories
+Creating a new database model
+Adding the necessary tables
+Creating an EER (Extended Entity-Relationship) Diagram
+Database Testing With the creation of this database, I learned how to address the data issues that existed previously. Some of the advantages of creating a database are:
+Data is easier to understand because it is categorized
+Redundancy of data is eliminated, simplifying data collection.
+Collected data follows a consistent format.
+Inconsistent data input is avoided.
+Data can be easily integrated as needed.
